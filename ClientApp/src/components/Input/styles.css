@@ -1,0 +1,16 @@
+﻿.link {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom:10%;
+    
+}
+a {
+    white-space: nowrap;
+    
+    color: #fff;
+}
+li {
+    list-style: none;
+   margin: 1rem;
+
+}

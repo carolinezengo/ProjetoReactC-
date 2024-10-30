@@ -1,0 +1,25 @@
+﻿h1 {
+    position: fixed;
+    top: 20%;
+    left: 47%;
+}
+.container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    position: fixed;
+    top: 50%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    gap: 18rem;
+}
+
+.formulario {
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    width: 60%;
+}
+
